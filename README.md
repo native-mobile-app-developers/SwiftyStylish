@@ -7,7 +7,7 @@
 
 ## Easy to use
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/native-mobile-app-developers/SwiftStylish/master/Assets/Screenshot2.png)](https://www.youtube.com/watch?v=rCkZyj95Z8c)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/native-mobile-app-developers/SwiftyStylish/master/Assets/Screenshot2.png)](https://www.youtube.com/watch?v=rCkZyj95Z8c)
 
 ## Example
 
