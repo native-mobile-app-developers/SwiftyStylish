@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyStylish (0.1.0)
+
+DEPENDENCIES:
+  - SwiftyStylish (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftyStylish:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftyStylish: 3e701bc2a6881200a47de8bbe32903e9236cb084
+
+PODFILE CHECKSUM: 9975c06b80f4a6ecf629fcbc076512fc699f85d2
+
+COCOAPODS: 1.10.0
