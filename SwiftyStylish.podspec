@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = "SwiftStylish help ios developers to make there app stylish in smple way"
 
-  s.homepage         = 'https://github.com/sachithamh/SwiftyStylish'
+  s.homepage         = 'https://github.com/native-mobile-app-developers/SwiftyStylish'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sachithamh' => 'sachithamh@gmail.com' }
-  s.source           = { :git => 'https://github.com/sachithamh/SwiftyStylish.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/native-mobile-app-developers/SwiftyStylish.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
