@@ -1,5 +1,5 @@
 PODS:
-  - SwiftyStylish (0.1.0)
+  - SwiftyStylish (0.1.1)
 
 DEPENDENCIES:
   - SwiftyStylish (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftyStylish: 3e701bc2a6881200a47de8bbe32903e9236cb084
+  SwiftyStylish: 1ae0f70c0178ca2d0058ecfe1d7be8542546d64b
 
 PODFILE CHECKSUM: 9975c06b80f4a6ecf629fcbc076512fc699f85d2
 
